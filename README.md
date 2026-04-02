@@ -1,2 +1,2 @@
 # Landing-page-Da-Barbie
-Teste técnico 
+Teste técnico para aprendiz front end
